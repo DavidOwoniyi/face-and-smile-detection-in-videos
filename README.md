@@ -1,13 +1,41 @@
-This is a simple program that detects faces and smiles in videos.
+# Face and Smile Detection in videos
+This simple program is designed for detecting faces and smiles in videos using AI/machine learning with Python and OpenCV.
 
-It uses Python and OpenCV. 
-OpenCV is a library that contains pretrained models that can be used for face and smile detection.
+### Features
+* Real-time face and smile detection in video streams.
+* Draws bounding rectangles around detected faces and smiles.
+* Processes video frame by frame for accurate detection.
 
-The models used here are called: Haar cascade classifiers for face and smile detection.
+### Installation
+1. Clone this repository:
+```git clone https://github.com/yourusername/facesmile-detection.git```
 
-The first step is to import the OpenCV library and load the face and smile detection models.
-We then gain access to our camera in which we'd be using for video capturing.
-We then use the models to detect faces and smiles in the video capture and then
-draw rectangles on the faces and smiles in real time.
+Navigate to the project directory:
+bash
+Copy code
+cd facesmile-detection
+Install the required packages:
+bash
+Copy code
+pip install -r requirements.txt
 
-The video is worked on frame by frame, so this is how face detection and smile detection is possible.
+### Dependencies
+* Python
+* OpenCV
+
+### Tools
+* Jupyter notebook
+
+### Process Overview
+* Import the OpenCV library and load the Haar cascade classifiers for face and smile detection.
+* Access the camera for video capturing.
+* Process the video frame by frame, detecting faces and smiles in real-time.
+* Draw rectangles around the detected faces and smiles.
+* 
+Dependencies
+OpenCV
+Install the dependency with:
+
+bash
+Copy code
+pip install opencv-python
