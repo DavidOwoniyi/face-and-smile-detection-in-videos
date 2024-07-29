@@ -1,5 +1,5 @@
 # Face and Smile Detection in videos 🤖
-This simple program is designed for detecting faces and smiles in videos using AI/machine learning with Python and OpenCV.
+This simple program is designed for detecting faces and smiles in videos using Machine Learning with Python and OpenCV.
 
 ### Features📍
 * Real-time face and smile detection in video streams.
