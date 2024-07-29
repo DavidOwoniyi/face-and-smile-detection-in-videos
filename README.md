@@ -1,4 +1,6 @@
 # Face and Smile Detection in videos 🤖
+<a class="header-badge" target="_blank" href="https://www.linkedin.com/in/david-owoniyi"><img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social"></a>
+
 This simple program is designed for detecting faces and smiles in videos using Machine Learning with Python and OpenCV.
 
 ### Features📍
