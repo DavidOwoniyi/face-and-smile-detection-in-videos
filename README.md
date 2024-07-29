@@ -17,7 +17,7 @@ This simple program is designed for detecting faces and smiles in videos using M
 ### Key Skills 🗝️
 * Python programming
 * Machine Learning
-* Image processing
+* Video/image processing
 * Computer Vision
 
 ### Dependencies 🔽
